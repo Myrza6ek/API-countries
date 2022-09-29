@@ -1,0 +1,12 @@
+.img {
+  width: 78px;
+  height: 45px;
+}
+
+table {
+  border: 1px solid rgba(0, 0, 0, 0.651);
+}
+td {
+  border: 1px solid rgba(0, 0, 0, 0.651);
+  text-align: center;
+}
